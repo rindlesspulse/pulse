@@ -2,7 +2,7 @@
   "build_id": "1774676292-69e47f4a",
   "pulse": {
     "type": "url",
-    "value": "https://example.com/path/pulse.enc"
+    "value": "https://raw.githubusercontent.com/rindlesspulse/pulse/main/pulse.enc"
   },
   "pulse_sha256": "ch95cF4OXNr7PIt1F0tAwr079NKQPApYhnp5Yp5tcXc=",
   "salt_b64": "85Au6VFXxlXtl0oyqSm4Uw==",
