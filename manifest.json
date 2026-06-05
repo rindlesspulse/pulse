@@ -1,0 +1,10 @@
+{
+  "build_id": "1780619316-623022c0",
+  "pulse": {
+    "type": "url",
+    "value": "https://raw.githubusercontent.com/rindlesspulse/pulse/main/pulse.enc"
+  },
+  "pulse_sha256": "5YFraf5e7Wa7AJY3b5emkZ17v6Wo+gNODWPjHY1PleA=",
+  "salt_b64": "33QTX85SVmWZgf2KESEi+g==",
+  "sig_b64": "oCnNqMxjfXMQtPympACxdZuGme76Z6jt9cR31rjNIl/UdJ/TTvtqzWXU18vcV863I06TAJGbd7qqPEsTtwzzBA=="
+}
