@@ -1,10 +1,10 @@
 {
-  "build_id": "1783397076-996062ed",
+  "build_id": "1783436587-2de3a4a9",
   "pulse": {
     "type": "url",
     "value": "https://raw.githubusercontent.com/rindlesspulse/pulse/main/pulsev2/pulse.enc"
   },
-  "pulse_sha256": "8c4rCFQqFSjw9B6n7F1MZyBDOl+eOyli+ppQTJGR5Bw=",
-  "salt_b64": "Aa9UniYpI5i8zuUaEQQSKA==",
-  "sig_b64": "VrB+slhFiNAqSU9ocfD2rIS87+hqXK2M0nkOwoP8e4f6W3+fUW9Gi3Lxvhfynu9XEoOn6C/5PZZHXezY7neaAw=="
+  "pulse_sha256": "7cknyy7KREkUhxZQi9pz1iYjaAHnOc2Mk0KlmCi6wCU=",
+  "salt_b64": "6acRuKpKhqZ1RhNukfN4Yw==",
+  "sig_b64": "GWMLGcr215msI8JCSuKZc+tz+mS/AArcJPzRrlrPpet8xgUELzxCpw+ppTPr06pKxAblIed2yU5Mi9qiNkeKDw=="
 }
